@@ -1,16 +1,46 @@
-# React + Vite
+#  React Currency Converter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive currency converter built using React.  
+This project focuses on understanding how to manage state, handle side effects, and work with APIs in a clean way.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+##  Features
 
-## React Compiler
+- Convert between multiple currencies
+- Real-time exchange rates using API
+- Clean and minimal user interface
+- Fast and responsive input handling
+- Reusable React components
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+##  Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React JS
+- JavaScript (ES6+)
+- CSS / Tailwind 
+
+
+---
+
+##  What I Learned
+
+While building this project, I focused on core React concepts:
+
+- **useState** for managing input values and selected currencies  
+- **useEffect** for fetching exchange rate data from an API  
+- Component-based structure for better code organization  
+- Handling user input and updating UI dynamically  
+
+This project helped me understand how React handles re-rendering and data flow.
+
+---
+
+##  Screenshot
+
+  
+<img width="1920" height="1080" alt="Screenshot (773)" src="https://github.com/user-attachments/assets/4a880d88-4cf8-4228-85a7-17fedf4ac033" />
+
+---
+
